@@ -11,6 +11,6 @@
   <!-- Third Image Row -->
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kiru-I&theme=omni" alt="Stats" width="403.5" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kiru-I&theme=omni&utcOffset=3" alt="Productive Time" width="403.5" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kiru-I&theme=omni&utcOffset=7" alt="Productive Time" width="403.5" />
   </div>
 </div>
