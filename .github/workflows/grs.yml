@@ -15,9 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          theme: omni
-          layout: donut
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=omni&layout=donut&card_width=300.5&hide_border=true
           path: profile/top-lang.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
